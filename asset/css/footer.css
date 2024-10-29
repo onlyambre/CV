@@ -1,0 +1,10 @@
+footer{
+    background-color: #17abb3;
+    text-align: center;
+    color: white;
+    padding: 10px 0;
+    font-style: italic;
+}
+footer img:hover{
+    opacity: 50%;
+}
